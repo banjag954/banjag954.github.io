@@ -4,43 +4,34 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture_02 }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>HI! :) My Korean name is 'JunSu Kim', and my Global name is 'Columbus Kim'.<br />
+I graduated from Sejong University in Korea with a bachelor's degree in civil engineering and currently, I am in charge of Service Design for Archisketch.<br />
+I am interested in UI/UX design and front-end development, also working hard to ensure that my actions lead to good results.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>안녕하세요. :) <br />
+한국 이름은 '김준수', 국외 이름은 'Columbus Kim'이라고합니다.<br />
+여행,맛집,산책 같은 활동적인 행동을 즐겨해서 동료들이 'Columbus'라는 별칭이 생겼고, 보통 동료들은 “Col”혹은“Bus”라고 애칭처럼 저를 줄여 말해요.<br />
+저는 한국의 세종대학교 건설환경공학과 학사과정을 졸업하였고, 현재 Archisketch의 서비스설계를 담당하고 있습니다.<br />
+저는 UI/UX 디자인 및 프론트엔드 개발에 관심이 많으며, 저의 행위가 좋은 결과로 이어질 수 있도록 노력하고 있습니다.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
+	<li>HTML - CSS - JavaScript</li>
 	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
+	<li>ReactJS</li>
 	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>MySQL</li>
 	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Sketch - Figma</li>
+	<li>Other adobe design tools : Illustration - Photoshop - AfterEffect</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://www.archisketch.com/">Archisketch</a></li>
+	<li><a href="https://kck.st/2yvzeb7">kickstarter</a></li>
+	<li><a href="https://vimeo.com/194913071">Hologram Musical “Maple Story”</a></li>
+	<li><a href="https://www.behance.net/kimjunsoo">Other portfolios</a></li>
 </ul>

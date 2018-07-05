@@ -10,7 +10,7 @@ tag:
 - elements
 star: true
 category: blog
-author: johndoe
+author: Columbus
 description: Markdown summary with different options
 ---
 

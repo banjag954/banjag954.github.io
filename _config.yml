@@ -56,18 +56,19 @@ kickstarter: 2yvzeb7
 email: banjag954@naver.com
 
 authors:
-    johndoe:
-        name: Columbus(Junsu) Kim
-        bio: A Man who travels the world eating noodles
+    Columbus:
+        name: Columbus(Junsu) Kim <br />
+        bio: Hi :) I'm Columbus Kim, I love to eat the traditional and unique food in the world.
+
         external-image: false
         picture: assets/images/profile.jpg
         #twitter: johndoe
-    jamesfoster:
-        name: Columbus(Junsu) Kim
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/profile.jpg
-        #twitter: jamesfoster
+    # jamesfoster:
+    #     name: Columbus(Junsu) Kim
+    #     bio: Hi :) I'm Columbus Kim, I love to eat the traditional and unique food in the world.
+    #     external-image: false
+    #     picture: assets/images/profile.jpg
+    #     #twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

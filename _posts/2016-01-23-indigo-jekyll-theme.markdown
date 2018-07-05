@@ -2,6 +2,7 @@
 title: "Making..."
 layout: post
 date: 2018-07-05 00:23
+comment : true
 tag: jekyll
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true

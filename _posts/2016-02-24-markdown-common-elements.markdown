@@ -8,7 +8,7 @@ headerImage: false
 tag:
 - markdown
 - elements
-star: true
+star: false
 category: blog
 author: Columbus
 description: Markdown summary with different options

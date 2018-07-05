@@ -12,7 +12,7 @@ I am interested in UI/UX design and front-end development, also working hard to 
 한국 이름은 '김준수', 국외 이름은 'Columbus Kim'이라고합니다.<br />
 여행,맛집,산책 같은 활동적인 행동을 즐겨해서 동료들이 'Columbus'라는 별칭이 생겼고, 보통 동료들은 “Col”혹은“Bus”라고 애칭처럼 저를 줄여 말해요.<br />
 저는 한국의 세종대학교 건설환경공학과 학사과정을 졸업하였고, 현재 Archisketch의 서비스설계를 담당하고 있습니다.<br />
-저는 UI/UX 디자인 및 프론트엔드 개발에 관심이 많으며, 저의 행위가 좋은 결과로 이어질 수 있도록 노력하고 있습니다.</p>
+저는 UI/UX 디자인 및 프론트엔드 개발에 관심이 많으며, 저의 행동이 좋은 결과로 이어질 수 있도록 노력하고 있습니다.</p>
 
 <h2>Skills</h2>
 

@@ -1,5 +1,19 @@
 ---
 title: Jekyll & Git으로 블로그 만들기
+layout: post
+date: 2018-07-10 22:44
+comment : true
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- blog
+- make
+- jekyll
+star: false
+category: blog
+author: Columbus
+description: Make jekyll blog
+
 ---
 
 ### Summary
@@ -29,7 +43,7 @@ title: Jekyll & Git으로 블로그 만들기
 
 <div style="color:#999; font-size: 14px;">
 
-주의 : 위의 글은 정말 쓸모없는 글입니다. 아랫글 부터 읽어주시면 감사하겠습니다.
+주의 : 위의 글은 정말 쓸모없는 한탄의 글입니다. 아랫글 부터 읽어주시면 감사하겠습니다.
 </div>
 <br />
 하여튼, 이번에 회사가 **시리즈 A** 투자를 받으며 몇가지 이슈가 발생되었는데, 이슈들은 아래와 같았습니다.
@@ -64,9 +78,9 @@ title: Jekyll & Git으로 블로그 만들기
 [^5]:https://www.tumblr.com
 [^6]:https://medium.com
 - **단점**
-  - 유로 서비스
-  - Markdown 지원
-  - 커스텀 디자인 및 기능 추가의 용이성
+  - 부분 유로 혹은 유료 서비스 다수
+  - Markdown 미 지원
+  - 커스텀 디자인 및 기능 추가의 용이성 제한
 
 위의 단점 및 기타 여러가지 이유로 우리는 **ARCHISKETCH DEVELOPMENT BLOG** 를 **Jekyll을 활용한 깃허브 블로그** 를 제작하기로 결정했습니다.
 

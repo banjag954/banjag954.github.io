@@ -1,7 +1,7 @@
 ---
-title: "Markdown Extra Components"
+title: "기본적인 Markdown 문법 참고_02"
 layout: post
-date: 2016-02-24 22:48
+date: 2018-07-06 20:30
 comment : true
 image: /assets/images/markdown.jpg
 headerImage: false
@@ -17,7 +17,7 @@ description: Markdown summary with different options
 
 ## Summary:
 
-You can pick as item to see how to apply in markdown.
+블로그 제작시, 참고 할 만한 기본적인 Markdown 문법 참고_02
 
 #### Especial Elements
 - [Evidence](#evidence)

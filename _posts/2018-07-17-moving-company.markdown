@@ -1,7 +1,7 @@
 ---
 title: Bye...SK, Hello! Google
 layout: post
-date: 2018-07-10 22:44
+date: 2018-07-17 12:44
 comment : true
 image: /assets/images/markdown.jpg
 headerImage: false

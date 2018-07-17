@@ -1,18 +1,18 @@
 ---
-title: Jekyll & Git으로 블로그 만들기
+
+title: "Jekyll & Git으로 블로그 만들기"
 layout: post
 date: 2018-07-10 22:44
 comment : true
-image: /assets/images/markdown.jpg
-headerImage: false
-tag:
-- blog
-- make
-- jekyll
-star: false
-category: blog
+tag: jekyll
+image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "왜 나는 Jekyll & Git 블로그를 선택하고, 제작하였나?"
+category: project
 author: Columbus
-description: Make jekyll blog
+externalLink: false
 
 ---
 
@@ -37,13 +37,13 @@ description: Make jekyll blog
 
 ---
 
-블로그를 제작하게 된 이유에 앞서, 필자의 상황에 대한 짧은 이야기를 먼저 말씀드리려고 합니다. 저는 **토목공학과를 나온 비전공자**이며, 현재 **ARCHISKETCH의 서비스 흐름도** 및 **각 서비스 컨텐츠 별 UI/UX** 에 관한 전반적인 기획 및 디자인을 담당하고 있습니다.
+필자는 현재 **ARCHISKETCH의 서비스** 및 **각 서비스 컨텐츠 별 UI/UX** 에 관한 전반적인 기획 및 디자인을 담당하고 있습니다.
 
->_미대도 컴공과 상관없는 학과를 졸업하고, 화면을 구성하는 대부분의 눈에 보이는 프론트 영역 전부를? (코드치기 제외) 책임지고 있습니다... 인생의 아이러니... ~~스타트업이라 사람도 없어 해당 영역을 책임질 사람도 나말곤 없다는게 함정...~~_
+>_미대와 컴공... 둘다 상관없는 학과를 졸업하고, 화면을 구성하는 대부분의 눈에 보이는 프론트 영역 전부를? (코드치기 제외) 책임지고 있습니다... 인생의 아이러니... ~~스타트업이라 사람도 없어 해당 영역을 책임질 사람도 나말곤 없다는게 함정...~~_
 
 <div style="color:#999; font-size: 14px;">
 
-주의 : 위의 글은 정말 쓸모없는 한탄의 글입니다. 아랫글 부터 읽어주시면 감사하겠습니다.
+주의 : 위의 글은 정말 무의미한 한탄의 글입니다. 아래의 글 부터 읽어주시면 감사하겠습니다.
 </div>
 <br />
 하여튼, 이번에 회사가 **시리즈 A** 투자를 받으며 몇가지 이슈가 발생되었는데, 이슈들은 아래와 같았습니다.

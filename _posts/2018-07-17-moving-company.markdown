@@ -55,15 +55,17 @@ description: Move-Company [ SK 에서 Google-Seoul-Campus로! ]
 
 <div class="caption" style="position:relative; top: -20px; text-align: center; font-size:14px;">[ 아키드로우의 하반기를 책임져줄 새로운 장소입니다! ]<br /><br /></div>
 
-![Google_office_01]({{ site.url }}/assets/images/google_03.jpeg)
-![Google_office_01]({{ site.url }}/assets/images/google_04.jpeg)
+![Google_office_01]({{ site.url }}/assets/img/google_03.jpeg)
+![Google_office_01]({{ site.url }}/assets/img/google_03-1.png)
+![Google_office_01]({{ site.url }}/assets/img/google_04-1.png)
+![Google_office_01]({{ site.url }}/assets/img/google_04.jpeg)
 <div class="caption" style="position:relative; top: -20px; text-align: center; font-size:14px;">[ Hi! Campus Seoul! ]<br /><br /></div>
 
 ![Google_office_01]({{ site.url }}/assets/images/google_07.jpeg)
 ![Google_office_01]({{ site.url }}/assets/images/google_06.jpeg)
 <div class="caption" style="position:relative; top: -20px; text-align: center; font-size:14px;">[ 입주사 선물로 공책과 펜도 받았다 ]<br /><br /></div>
 
-![Google_office_01]({{ site.url }}/assets/images/google_05.jpeg)
+![Google_office_01]({{ site.url }}/assets/images/google_05-1.png)
 
 __우리의 6개월간 우리의 하반기를 챙겨줄 구글 캠퍼스 서울!__ <br />
 이 곳에서 지내는 동안 어떤 일이 생기고, 무엇을 얻어갈 수 있을까? 많은 기대가 됩니다.

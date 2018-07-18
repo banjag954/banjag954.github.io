@@ -55,10 +55,10 @@ description: Move-Company [ SK 에서 Google-Seoul-Campus로! ]
 
 <div class="caption" style="position:relative; top: -20px; text-align: center; font-size:14px;">[ 아키드로우의 하반기를 책임져줄 새로운 장소입니다! ]<br /><br /></div>
 
-![Google_office_01]({{ site.url }}/assets/img/google_03.jpeg)
-![Google_office_01]({{ site.url }}/assets/img/google_03-1.png)
-![Google_office_01]({{ site.url }}/assets/img/google_04-1.png)
-![Google_office_01]({{ site.url }}/assets/img/google_04.jpeg)
+![Google_office_01]({{ site.url }}/assets/images/google_03.jpeg)
+![Google_office_01]({{ site.url }}/assets/images/google_03-1.png)
+![Google_office_01]({{ site.url }}/assets/images/google_04-1.png)
+![Google_office_01]({{ site.url }}/assets/images/google_04.jpeg)
 <div class="caption" style="position:relative; top: -20px; text-align: center; font-size:14px;">[ Hi! Campus Seoul! ]<br /><br /></div>
 
 ![Google_office_01]({{ site.url }}/assets/images/google_07.jpeg)

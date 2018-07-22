@@ -54,4 +54,4 @@ externalLink: false
 
 그럼, 안녕히 가세요~!
 
-![bye]({{ site.url }}/assets/images/Bye.gif)
+![bye]({{ site.url }}/assets/images/bye.gif)

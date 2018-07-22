@@ -1,6 +1,6 @@
 ---
 
-title: "Notice:Project에 대해 알려드립니다."
+title: "[ Notice: Project]에 대해 알려드립니다."
 layout: post
 date: 2018-07-22 14:44
 comment : true

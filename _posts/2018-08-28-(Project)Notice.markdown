@@ -2,7 +2,7 @@
 
 title: "[Notice: Project]에 대해 알려드립니다."
 layout: post
-date: 2018-08-28 01:00
+date: 2018-08-29 00:15
 comment : true
 tag:
 - Notice
@@ -24,7 +24,7 @@ externalLink: false
 
 ![hi]({{ site.url }}/assets/images/hello.gif)
 
-블로그를 시작하지 얼마되지 않았습니다.
+블로그를 시작하지 얼마되지 않은 초심자입니다.
 
 
 **Project** 는 아래의 컨텐츠를 위한 공간입니다.<br />

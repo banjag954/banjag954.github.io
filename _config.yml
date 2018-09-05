@@ -2,7 +2,7 @@ remote_theme: sergiokopplin/indigo
 
 # main text of home
 name: Experience architect
-bio: Hi :) my name is Columbus Kim <br /> I like to eat unique food & see artworks
+bio: Hi :) my name is Cole Kim <br /> I like to eat unique food & see artworks
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -59,8 +59,8 @@ email: banjag954@naver.com
 
 authors:
     Columbus:
-        name: Columbus(Junsu) Kim <br />
-        bio: Hi :) I'm Columbus Kim, I love to eat the traditional and unique food in the world.
+        name: Cole(Junsu) Kim <br />
+        bio: Hi :) I'm Cole Kim, I love to eat the traditional and unique food in the world.
 
         external-image: false
         picture: assets/images/profile.jpg

@@ -1,5 +1,5 @@
 ---
-title: "스타트업 기획자가 개발을 배우게 된 이유"
+title: "04 : 스타트업 기획자가 개발을 배우게 된 이유"
 layout: post
 date: 2018-08-28 00:24
 comment : true

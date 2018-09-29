@@ -1,6 +1,6 @@
 ---
 
-title: "Jekyll & Git으로 블로그 만들기"
+title: "01 : Jekyll & Git으로 블로그 만들기"
 layout: post
 date: 2018-07-10 22:44
 comment : true

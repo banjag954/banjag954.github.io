@@ -1,5 +1,5 @@
 ---
-title: " 온라인 명함 [Signature / 서명] 만들기 "
+title: "02 : 온라인 명함 [Signature / 서명] 만들기"
 layout: post
 date: 2018-07-21 16:55
 comment : true

@@ -1,5 +1,5 @@
 ---
-title: "기본적인 Markdown 문법 참고_02"
+title: "02 : 기본적인 Markdown 문법 참고_02"
 layout: post
 date: 2018-07-06 20:30
 comment : true

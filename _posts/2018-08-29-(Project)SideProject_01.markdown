@@ -1,6 +1,6 @@
 ---
 
-title: "SideProject_01 : KaKaoTalk을 Clone하며, CSS와 친해지기"
+title: "03 : SideProject_KaKaoTalk Clone"
 layout: post
 date: 2018-08-29 00:10
 comment : true

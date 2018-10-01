@@ -1,8 +1,8 @@
 ---
 
-title: "00 : [Notice: Project]에 대해 알려드립니다."
+title: "[ Notice: Project ]에 대해 알려드립니다."
 layout: post
-date: 2018-09-29 14:15
+date: 2018-10-01 14:15
 comment : true
 tag:
 - Notice

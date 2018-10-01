@@ -175,6 +175,6 @@ __CSS__ 와 친밀해 질 수 있어 좋았고, 결과물도 이쁘게 나와 �
 이번 프로젝트 진행 중, 나중에 다시 참고할 레퍼런스들을 모아본다.
 
 
-1. [ Apple: Safari Web Contents Guide Line ](https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html)
-2. [ 최적화를 위해 브라우저 및 디바이스 별 붙여줘야하는 meta tags ](https://speckyboy.com/creating-a-mobile-web-application-with-meta-tags/)
-3. [어린아이도 배울 수 있는 Flexbox-froggy](http://flexboxfroggy.com/#ko)
+1. [[ Apple: Safari Web Contents Guide Line ]](https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html)
+2. [[ 최적화를 위해 브라우저 및 디바이스 별 붙여줘야하는 meta tags ]](https://speckyboy.com/creating-a-mobile-web-application-with-meta-tags/)
+3. [[ 어린아이도 배울 수 있는 Flexbox-froggy ]] (http://flexboxfroggy.com/#ko)

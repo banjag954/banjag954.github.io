@@ -134,7 +134,7 @@ __로고, 명함, 웹사이트, 다른 SNS 매체... 등__
 ~~~
 
 여러 브라우저에 사용될 것을 참고하여, 아래의 meta를 붙이는 것도 잊지말자.<br>
-[ 최적화를 위해 브라우저 및 디바이스 별 붙여줘야하는 meta tags ](https://speckyboy.com/creating-a-mobile-web-application-with-meta-tags/)
+[[ 최적화를 위해 브라우저 및 디바이스 별 붙여줘야하는 meta tags ]](https://speckyboy.com/creating-a-mobile-web-application-with-meta-tags/)
 
 어짜피 이메일 서명란에 사용된 후, 언제 다시 사용될지 모를 코드이기에 간단하게 html 파일 하나로 만들었다.
 

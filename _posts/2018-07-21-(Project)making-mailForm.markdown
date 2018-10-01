@@ -105,16 +105,17 @@ __로고, 명함, 웹사이트, 다른 SNS 매체... 등__
 <html lang="en">
  <head>
   <meta charset="UTF-8">
-  <meta name="Generator" content="">
-  <meta name="Author" content="">
-  <meta name="Keywords" content="">
-  <meta name="Description" content="">
-  <meta name="viewport" content="width=device-width,user-scalable=no" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="HandheldFriendly" content="true">
+  <meta name="MobileOptimized" content="width">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
   <title>Archisketch - mail</title>
  </head>
  <body>
 
-   <div style="width:100%; margin:0 auto;">
+   <div style="width:100%; margin:0 auto; font-family: sans-serif;">
      <div style="padding:0px; background:#67AFC2;">
          <div><img src="https://i.imgur.com/M2ukmNp.png" alt="ARCHISKETCH_LOGO" title="source: imgur.com" style="float:right; padding: 54px 20px 0px 0px; display:block; width:140px;"></div>
          <div><img src="https://i.imgur.com/3z5BBVz.png" alt="ARCHIDRAW_LOGO" title="source: imgur.com" style="float:left;padding: 20px 0px 0px 20px;display:block;width:140px;"></div>
@@ -128,10 +129,12 @@ __로고, 명함, 웹사이트, 다른 SNS 매체... 등__
           </div>
      </div>
    </div>
-
  </body>
 </html>
 ~~~
+
+여러 브라우저에 사용될 것을 참고하여, 아래의 meta를 붙이는 것도 잊지말자.<br>
+[ 최적화를 위해 브라우저 및 디바이스 별 붙여줘야하는 meta tags ](https://speckyboy.com/creating-a-mobile-web-application-with-meta-tags/)
 
 어짜피 이메일 서명란에 사용된 후, 언제 다시 사용될지 모를 코드이기에 간단하게 html 파일 하나로 만들었다.
 

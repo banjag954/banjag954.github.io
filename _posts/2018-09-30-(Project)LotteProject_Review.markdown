@@ -123,7 +123,7 @@ __PC 버전의 터치 디바이스__ 를 건드리게되면서, 빼먹은 자잘
 __마우스에 대한 indication__ 으로 Tooltip,hover 등의 CSS Selector를 UI에 붙여놨었는데, 터치 스크린으로 가니 아무것도 먹지않아 엄청 정적으로 보였다.
 
 __:active, :focus 등 추가적인 Selector를 붙여주자.__<br>
-Touch Selector에 대한 부분은 __Google 개발자 사이트__에서 잘 설명해놓았으니 참고하자.
+Touch Selector에 대한 부분은 __Google 개발자 사이트__ 에서 잘 설명해놓았으니 참고하자.
 
 [[ 구글 개발자 노트 : Touch screen 이벤트에 관하여 ]](https://developers.google.com/web/fundamentals/design-and-ux/input/touch/?hl=ko)
 <br />

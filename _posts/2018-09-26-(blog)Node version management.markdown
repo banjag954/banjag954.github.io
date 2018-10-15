@@ -95,7 +95,8 @@ __01.02 N 사용법__ <br>
 [ N 사용법 바로가기 ](https://github.com/tj/n#usage)
 
 
-__01.03 Error : N 과 NVM 설치 및 작동이 되지 않을 경우 ( n: command not found )__
+__01.03 Error : N 과 NVM 설치 및 작동이 되지 않을 경우__<br>
+__( n: command not found )__
 
 ~~후... 현재의 내 상황이다..~~
 

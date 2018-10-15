@@ -112,14 +112,14 @@ $ brew install node --latest
 __방법을 찾았다. 쓰벌.__
 
  __NPM과 연관된 다른 스크립트, 플러그인 다 되지 않아 계속 찾아봤다.__<br>
- __찾는 단어가 잘못됬더라. _(검색 : n: command not found)___<br>
+ __문제를 찾아보는 단어가 잘못됬더라. _(검색 : n: command not found)___<br>
  __이 경우는 NPMRC 패칭 문제일 수도 있다.__
  <br>
- 레퍼런스는 아래를 참고.
+ __레퍼런스는 아래를 참고.__
 
  [Stackoverflow : n: command not found ](https://askubuntu.com/questions/608661/command-not-found-when-executing-node-js-n-package-on-sudo)
 
-추가로 예전 mac이라 hidden files를 보려면 __[ cmd+shift+. ]__ 을 클릭해야 한다는 점 명심하자.<br>
+추가로 예전에 대답한 답변으로써, 현재 hidden files를 보려면 __[ cmd+shift+. ]__ 을 클릭해야 한다는 점 명심하자.<br>
 
  나의 경우엔 NPMRC에 /bin 이 하나 더 들어가 있어서...<br>
  (ex] /usr/local/bin/bin 이였다 ㅡㅡ)<br>

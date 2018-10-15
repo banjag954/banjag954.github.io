@@ -95,17 +95,35 @@ __01.02 N 사용법__ <br>
 [ N 사용법 바로가기 ](https://github.com/tj/n#usage)
 
 
-__01.03 Error : N 과 NVM 설치 및 작동이 되지 않을 경우__
+__01.03 Error : N 과 NVM 설치 및 작동이 되지 않을 경우 ( n: command not found )__
 
-후... 현재의 내 상황이다..
+~~후... 현재의 내 상황이다..~~
 
-스택오버플로우, 깃 등 여러가지에서 찾아봤는데, 그냥 다시 노드를 설치하라는 답변이 다수... ㅎ....<br>
+~~스택오버플로우, 깃 등 여러가지에서 찾아봤는데, 그냥 다시 노드를 설치하라는 답변이 다수... ㅎ....~~<br>
 
-과감하게 기존 노드 삭제 후, 터미널에 아래의 코멘트를 입력하자.
+~~과감하게 기존 노드 삭제 후, 터미널에 아래의 코멘트를 입력하자.~~
 
 ```
 $ brew install node --latest
 ```
+
+### 2018.10.16
+
+__방법을 찾았다. 쓰벌.__
+
+ __NPM과 연관된 다른 스크립트, 플러그인 다 되지 않아 계속 찾아봤다.__<br>
+ __찾는 단어가 잘못됬더라. _(검색 : n: command not found)___<br>
+ __이 경우는 NPMRC 패칭 문제일 수도 있다.__
+ <br>
+ 레퍼런스는 아래를 참고.
+
+ [Stackoverflow : n: command not found ](https://askubuntu.com/questions/608661/command-not-found-when-executing-node-js-n-package-on-sudo)
+
+추가로 예전 mac이라 hidden files를 보려면 __[ cmd+shift+. ]__ 을 클릭해야 한다는 점 명심하자.<br>
+
+ 나의 경우엔 NPMRC에 /bin 이 하나 더 들어가 있어서...<br>
+ (ex] /usr/local/bin/bin 이였다 ㅡㅡ)<br>
+ 진짜 /bin 하나로 전역으로 설치한 npm 플러그인들이 먹통이되다니 화가난다. 
 
 <br>
 __02. NPM Update 방법__

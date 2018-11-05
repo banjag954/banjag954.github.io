@@ -12,7 +12,7 @@ star: true
 hidden: true # don't count this post in blog pagination
 description: "Project Notice"
 category: project
-author: Columbus
+author: Cole Kim
 externalLink: false
 
 ---

@@ -10,7 +10,7 @@ tag:
 - elements
 star: false
 category: blog
-author: Columbus
+author: Cole Kim
 description: Markdown summary with different options
 ---
 

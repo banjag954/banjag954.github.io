@@ -14,7 +14,7 @@ star: false
 hidden: true # don't count this post in blog pagination
 description: "KaKaoTalk을 Clone하며, CSS와 친해지기"
 category: project
-author: Columbus
+author: Cole Kim
 externalLink: false
 
 ---

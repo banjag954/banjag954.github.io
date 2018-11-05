@@ -10,7 +10,7 @@ tag:
 - learn
 star: false
 category: blog
-author: Columbus
+author: Cole Kim
 description: Node 설치 및 버전 관리 방법
 ---
 

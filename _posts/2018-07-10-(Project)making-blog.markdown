@@ -11,7 +11,7 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "왜 나는 Jekyll & Git 블로그를 선택하고, 제작하였나?"
 category: project
-author: Columbus
+author: Cole Kim
 externalLink: false
 
 ---

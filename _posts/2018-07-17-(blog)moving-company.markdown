@@ -12,7 +12,7 @@ tag:
 - move
 star: false
 category: blog
-author: Columbus
+author: Cole Kim
 description: Move-Company [ SK 에서 Google-Seoul-Campus로! ]
 ---
 

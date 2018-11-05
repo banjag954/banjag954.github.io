@@ -10,7 +10,7 @@ tag:
 - learn
 star: false
 category: blog
-author: Columbus
+author: Cole Kim
 description: 스타트업 기획자가 개발을 배우게 된 이유
 ---
 

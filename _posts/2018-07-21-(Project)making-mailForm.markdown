@@ -11,7 +11,7 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "온라인 명함 [Signature / 서명] 만들기"
 category: project
-author: Columbus
+author: Cole Kim
 externalLink: false
 ---
 

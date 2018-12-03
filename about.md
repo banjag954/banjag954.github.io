@@ -4,6 +4,11 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture_02 }})
 
+<br />
+E-MAIL : banjag954@naver.com<br />
+CALL : +82 10-2090-3029
+<br />
+
 <p>HI! :) My Korean name is 'JunSu Kim', and my Global name is 'Cole Kim'.<br />
 I graduated from Sejong University in Korea with a bachelor's degree in civil engineering and currently, I am in charge of Service Design for Archisketch.<br />
 I am interested in UI/UX design and front-end development, also working hard to ensure that my actions lead to good results.</p>

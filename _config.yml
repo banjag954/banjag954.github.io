@@ -115,3 +115,6 @@ plugins:
 
 jekyll-mentions:
     base_url: https://github.com
+
+include:  
+  \- .nojekyll
